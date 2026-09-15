@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://vetschn.github.io/example/dev/</loc>
+      </url>
+      <url>
+        <loc>https://vetschn.github.io/example/dev/foo/</loc>
+      </url>
+      <url>
+        <loc>https://vetschn.github.io/example/dev/api/</loc>
+      </url>
+      <url>
+        <loc>https://vetschn.github.io/example/dev/user-guide/</loc>
+      </url>
+</urlset>
